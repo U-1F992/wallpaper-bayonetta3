@@ -1,6 +1,6 @@
 # wallpaper-bayonetta3
 
-Download image from https://www.platinumgames.co.jp/dev-bayonetta3/article/311 and upconvert it.
+Download the image from https://www.platinumgames.co.jp/dev-bayonetta3/article/311 and upconvert it.
 
 ```
 $ make
